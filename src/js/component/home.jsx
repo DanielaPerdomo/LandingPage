@@ -12,11 +12,11 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Home = () => {
   return (
     <div className="text-center">
-      <Navbar></Navbar>
-      <Jumbotron></Jumbotron>
-      <Card></Card>
-      <Cards></Cards>
-      <Footer></Footer>
+      <Navbar />
+      <Jumbotron />
+      <Card />
+      <Cards />
+      <Footer />
     </div>
   );
 };
