@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Jumbotron from "./Jumbotron";
-import Card from "./Card";
 import Cards from "./Cards";
 import Footer from "./Footer";
 
@@ -14,7 +13,6 @@ const Home = () => {
     <div className="text-center">
       <Navbar />
       <Jumbotron />
-      <Card />
       <Cards />
       <Footer />
     </div>
