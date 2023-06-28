@@ -16,7 +16,7 @@ const Cards = () => {
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Dignissimos neque eos, deleniti pariatur harum quia.
               </p>
-              <a href="#" class="btn btn-primary">Find Out More!</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
@@ -33,7 +33,7 @@ const Cards = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Dignissimos neque eos, deleniti pariatur harum quia.
               </p>
-              <a href="#" class="btn btn-primary">Find Out More!</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
@@ -50,7 +50,7 @@ const Cards = () => {
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Dignissimos neque eos, deleniti pariatur harum quia.
               </p>
-              <a href="#" class="btn btn-primary">Find Out More!</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
@@ -67,7 +67,7 @@ const Cards = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Dignissimos neque eos, deleniti pariatur harum quia.
               </p>
-              <a href="#" class="btn btn-primary">Find Out More!</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
